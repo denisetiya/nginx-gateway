@@ -7,10 +7,11 @@
 [![Rate Limit](https://img.shields.io/badge/Rate--Limiting-10r/s-orange)](#rate-limiting)
 
 A **reusable** and **production-ready** API Gateway built on **Nginx** with:
-✅ Automatic SSL (**Let’s Encrypt**)
-✅ Rate limiting per IP
-✅ Easy service registration scripts
-✅ Full **Docker Compose** setup
+
+- ✅ Automatic SSL (**Let’s Encrypt**)
+- ✅ Rate limiting per IP
+- ✅ Easy service registration scripts
+- ✅ Full **Docker Compose** setup
 
 ---
 
