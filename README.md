@@ -174,6 +174,6 @@ See [example-usage.md](./example-usage.md) for real service integration examples
 
 ## 📜 License
 
-Released under the [MIT License](./LICENSE).
+This project is open source and available under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ---
